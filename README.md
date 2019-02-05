@@ -28,7 +28,20 @@
   - [ ] 
 
 ### 알고리즘 (Algorithms)
-- [ ] 
+- [ ] 백준 알고리즘
+- [ ] Hackerrank Algorithm Problems
+  - [ ] Warmup
+  - [ ] Implementation
+  - [ ] Strings
+  - [ ] Sorting
+  - [ ] Search
+  - [ ] Graph Theory
+  - [ ] Greedy
+  - [ ] Dynamic Programming
+  - [ ] Bit Manipulation
+  - [ ] Recursion
+  - [ ] Game Theory
+  - [ ] Debugging
 
 ### 시스템 소프트웨어 (System Software)
 - [ ] 
