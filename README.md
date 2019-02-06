@@ -12,7 +12,7 @@
 
 ## 코딩테스트 준비
 
-## CS 과목 (Computer Science)
+### CS 과목 (Computer Science)
 - [ ] Basic C++ / STL 
   - [ ] 백준 STL 기초 강의 정리
   - [ ] 백준 STL 기초 강의 문제
