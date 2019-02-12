@@ -64,7 +64,7 @@
   - [ ] Game Theory
   - [ ] Debugging
   
-## 필기시험 (CS 과목)
+## 필기시험 준비 (CS 과목)
 
 ### 시스템 소프트웨어 (System Software)
 - [ ] 패캠 시스템 소프트웨어 강의
