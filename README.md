@@ -14,8 +14,8 @@
 
 ### CS 과목 (Computer Science)
 - [ ] Basic C++ / STL 
-  - [ ] 백준 STL 기초 강의 정리
-  - [ ] 백준 STL 기초 강의 문제
+  - [x] 백준 STL 기초 강의 정리
+  - [x] 백준 STL 기초 강의 문제
   - [ ] [스탠포드 프로그래밍 대회 강의](http://web.stanford.edu/class/cs97si/)
 - [ ] Big-Oh Notation
   - [ ] [cheatsheet](http://bigocheatsheet.com/)
