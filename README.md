@@ -15,9 +15,9 @@
 
 > [Front-end 준비](#frontend-준비)
 1. [Fundamentals](#fundamentals)
-  - [Frontend Masters 가이드](#frontend masters booklet -self study guide 39 topics)
+  - [Frontend Masters 가이드](#frontend-masters-booklet-self-study-guide-39-topics)
 2. [Projects](#projects)
-3. [Fullstack으로 expand하기](#fullstack으로 expand하기)
+3. [Fullstack으로 expand하기](#fullstack으로-expand하기)
 
 > [Application 준비](#apply-준비)
 
@@ -95,7 +95,7 @@
 
 ### Fundamentals
 
-#### Frontend Masters booklet -self study guide (39 topics)
+#### Frontend Masters booklet - self study guide (39 topics)
 1. [ ] Internet & Web
 2. [ ] Web Browsers
 3. [ ] DNS
