@@ -13,7 +13,13 @@
 3. [데이터베이스](#데이터베이스-databases)
 4. [네트워크](#네트워크-networking)
 
-> [Portfolio 준비](#portfolio-준비)
+> [Front-end 준비](#frontend-준비)
+1. [Fundamentals](#fundamentals)
+  - [Frontend Masters 가이드](#frontend masters booklet -self study guide 39 topics)
+2. [Projects](#projects)
+3. [Fullstack으로 expand하기](#fullstack으로 expand하기)
+
+> [Application 준비](#apply-준비)
 
 ## 코딩테스트 준비
 
@@ -36,6 +42,8 @@
   - [ ] Stack (easy)
   - [ ] Queue (easy)
   - [ ] Tree (easy)
+- [ ] Cracking the Coding Interview (read)
+  - [ ] 
 
 ### 알고리즘 (Algorithms)
 - [ ] 백준 알고리즘 기초 강의
@@ -64,10 +72,12 @@
   - [ ] Game Theory
   - [ ] Debugging
   
+  
 ## 필기시험 준비 (CS 과목)
 
 ### 시스템 소프트웨어 (System Software)
 - [ ] 패캠 시스템 소프트웨어 강의
+- [ ] 블로그 운영체제 정리
 
 ### 운영체제 (Operating Systems)
 - [ ] 패캠 운영체제 강의
@@ -78,7 +88,41 @@
 - [ ] 
 
 ### 네트워크 (Networking)
-- [ ] 
+- [ ] Geeks for Geeks
 
-## Portfolio 준비
-- [ ] Flask Card 만들기
+
+## Frontend 준비
+
+### Fundamentals
+
+#### Frontend Masters booklet -self study guide (39 topics)
+1. [ ] Internet & Web
+2. [ ] Web Browsers
+3. [ ] DNS
+4. [ ] HTTP & Networks
+
+#### Frontend Courses
+1. [ ] Udemy - zero-to-master course
+2. [ ] Front-end Masters - Complete Intro to Web Development, v2 (복습 겸)
+3. [ ] Front-end Masters - CSS Grids and Flexbox for Responsive Web Design (선택)
+4. [ ] Front-end Masters - JavaScript: From Fundamentals to Functional JS, v2 (선택)
+5. [ ] Front-end Masters - Mastering Chrome Developer Tools v2 (선택)
+
+### Projects
+- [ ]
+
+### Fullstack으로 expand하기
+1. [ ] Front-end Masters - Full Stack for Frontend Engineers course
+2. [ ] Front-end Masters - Full Stack for Frontend Engineers 2 course
+
+
+## Application 준비
+
+### Preferred Company 조사
+- [ ] 회사 조사
+- [ ] apply할 회사 list 작성
+
+### Resume 준비
+- [ ] LinkedIn Resume 등록
+- [ ] 원티드 이력서 등록
+- [ ] 
