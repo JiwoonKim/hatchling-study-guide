@@ -102,7 +102,7 @@
 4. [ ] HTTP & Networks
 
 #### Frontend Courses
-1. [ ] Udemy - zero-to-master course
+1. [ ] Udemy - Zero to Master course
 2. [ ] Front-end Masters - Complete Intro to Web Development, v2 (복습 겸)
 3. [ ] Front-end Masters - CSS Grids and Flexbox for Responsive Web Design (선택)
 4. [ ] Front-end Masters - JavaScript: From Fundamentals to Functional JS, v2 (선택)
