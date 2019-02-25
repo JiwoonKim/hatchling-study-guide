@@ -96,7 +96,7 @@
 ### Fundamentals
 
 #### Frontend Masters booklet - self study guide (39 topics)
-1. [ ] Internet & Web
+1. [x] Internet & Web
 2. [ ] Web Browsers
 3. [ ] DNS
 4. [ ] HTTP & Networks
