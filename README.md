@@ -97,9 +97,22 @@
 
 #### Frontend Masters booklet - self study guide (39 topics)
 1. [x] Internet & Web
-2. [ ] Web Browsers
+2. [x] Web Browsers
 3. [ ] DNS
 4. [ ] HTTP & Networks
+5. [ ] Web Hosting
+6. [ ] General Front-end Dev
+7. [ ] UI/Interaction Design
+8. [ ] HTML & CSS
+9. [ ] SEO
+10. [ ] JavaScript
+11. [ ] Web Animation
+12. [ ] DOM, BOM, jQuery
+13. [ ] Web Fonts, Icons, & Images
+14. [ ] Accessibility
+15. [ ] Web/Browser APIs
+16. [ ] JSON
+17. [ ] JS Templates
 
 #### Frontend Courses
 1. [ ] Udemy - Zero to Master course
