@@ -98,7 +98,7 @@
 #### Frontend Masters booklet - self study guide (39 topics)
 1. [x] Internet & Web
 2. [x] Web Browsers
-3. [ ] DNS
+3. [x] DNS
 4. [ ] HTTP & Networks
 5. [ ] Web Hosting
 6. [ ] General Front-end Dev
