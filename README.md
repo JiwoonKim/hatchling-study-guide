@@ -99,7 +99,7 @@
 1. [x] Internet & Web
 2. [x] Web Browsers
 3. [x] DNS
-4. [ ] HTTP & Networks
+4. [x] HTTP & Networks
 5. [ ] Web Hosting
 6. [ ] General Front-end Dev
 7. [ ] UI/Interaction Design
