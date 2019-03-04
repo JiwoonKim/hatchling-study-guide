@@ -96,22 +96,44 @@
 ### Fundamentals
 
 #### Frontend Masters booklet - self study guide (39 topics)
-1. [x] Internet & Web
-2. [x] Web Browsers
-3. [x] DNS
-4. [x] HTTP & Networks
-5. [x] Web Hosting
-6. [x] HTML & CSS
-7. [x] UI/Interaction Design
-9. [ ] SEO
-10. [ ] JavaScript
-11. [ ] Web Animation
-12. [ ] DOM, BOM, jQuery
-13. [ ] Web Fonts, Icons, & Images
-14. [ ] Accessibility
-15. [ ] Web/Browser APIs
-16. [ ] JSON
-17. [ ] JS Templates
+- [x] Internet & Web
+- [x] Web Browsers
+- [x] DNS
+- [x] HTTP & Networks
+- [x] Web Hosting
+- [ ] HTML & CSS
+- [x] UI/Interaction Design
+- [ ] SEO
+- [ ] JavaScript
+- [ ] Web Animation
+- [ ] DOM, BOM, jQuery
+- [ ] Web Fonts, Icons, & Images
+- [ ] Accessibility
+- [ ] Web/Browser APIs
+- [ ] JSON
+- [ ] JS Templates
+- [ ] Static Site Generators
+- [ ] Computer Science via JS
+- [ ] Front-end App Architecture
+- [ ] Data API
+- [ ] React
+- [ ] State Management
+- [ ] Progressive Web App
+- [ ] JS API Design
+- [ ] Web Dev Tools
+- [ ] Command Line
+- [ ] Node.js
+- [ ] JS Modules
+- [ ] JS Module loaders/bundles
+- [ ] Package Managers
+- [ ] Version Control
+- [ ] Build & Task Automation
+- [ ] Site Performance Optimization
+- [ ] Testing
+- [ ] Headless Browsers
+- [ ] Offline Dev
+- [ ] Web/Browser/App Security
+- [ ] Multi-device Dev
 
 #### Frontend Courses
 1. [ ] Udemy - Zero to Master course
