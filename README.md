@@ -101,9 +101,8 @@
 3. [x] DNS
 4. [x] HTTP & Networks
 5. [x] Web Hosting
-6. [x] General Front-end Dev
-7. [ ] UI/Interaction Design
-8. [ ] HTML & CSS
+6. [x] HTML & CSS
+7. [x] UI/Interaction Design
 9. [ ] SEO
 10. [ ] JavaScript
 11. [ ] Web Animation
