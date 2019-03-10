@@ -104,7 +104,7 @@
 - [x] HTML
 - [x] CSS
 - [x] UI/Interaction Design
-- [ ] Responsive Websites
+- [x] Responsive Websites
 - [ ] SEO
 - [ ] JavaScript
 - [ ] Web Animation
