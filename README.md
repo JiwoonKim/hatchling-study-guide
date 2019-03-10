@@ -101,7 +101,8 @@
 - [x] DNS
 - [x] HTTP & Networks
 - [x] Web Hosting
-- [x] HTML & CSS
+- [x] HTML
+- [x] CSS
 - [x] UI/Interaction Design
 - [ ] Responsive Websites
 - [ ] SEO
