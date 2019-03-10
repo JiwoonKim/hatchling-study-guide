@@ -95,14 +95,15 @@
 
 ### Fundamentals
 
-#### Frontend Masters booklet - self study guide (39 topics)
+#### Frontend Masters booklet - self study guide (39 topics + more)
 - [x] Internet & Web
 - [x] Web Browsers
 - [x] DNS
 - [x] HTTP & Networks
 - [x] Web Hosting
-- [ ] HTML & CSS
+- [x] HTML & CSS
 - [x] UI/Interaction Design
+- [ ] Responsive Websites
 - [ ] SEO
 - [ ] JavaScript
 - [ ] Web Animation
@@ -143,7 +144,9 @@
 5. [ ] Front-end Masters - Mastering Chrome Developer Tools v2 (선택)
 
 ### Projects
-- [ ]
+- [ ] Wesbos Grid Challenge
+- [ ] Wesbos Flex Challenge
+- [ ] Wesbos Javascript 30 day challenge
 
 ### Fullstack으로 expand하기
 1. [ ] Front-end Masters - Full Stack for Frontend Engineers course
