@@ -110,6 +110,7 @@
 - [ ] Web Animation
 - [ ] DOM, BOM, jQuery
 - [ ] Web Fonts, Icons, & Images
+- [ ] CSS Architecture (go to the css section)
 - [ ] Accessibility
 - [ ] Web/Browser APIs
 - [ ] JSON
