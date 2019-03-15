@@ -103,7 +103,7 @@
 - [x] HTML
     - [x] Internet is Hard - HTML lessons 정리
 - [x] CSS
-    - - [x] Internet is Hard - CSS lessons 정리
+    - [x] Internet is Hard - CSS lessons 정리
 - [x] UI/Interaction Design
 - [x] Responsive Websites
 - [ ] SEO
