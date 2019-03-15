@@ -90,7 +90,6 @@
 ### 네트워크 (Networking)
 - [ ] Geeks for Geeks
 
-
 ## Frontend 준비
 
 ### Fundamentals
@@ -102,11 +101,20 @@
 - [x] HTTP & Networks
 - [x] Web Hosting
 - [x] HTML
+    - [x] Internet is Hard - HTML lessons 정리
 - [x] CSS
+    - - [x] Internet is Hard - CSS lessons 정리
 - [x] UI/Interaction Design
 - [x] Responsive Websites
 - [ ] SEO
 - [ ] JavaScript
+    - [x] Web50 lecture 6 - JavaScript 정리
+    - [x] Web50 lecture 7 - Frontend 정리
+    - [x] CS50 Beyond lecture 2.1 - JavaScript 정리
+    - [ ] CS50 Beyond lecture 2.2 - JavaScript continued 정리
+    - [ ] Mobile50 lecture 0 - JavaScript 정리
+    - [ ] Mobile50 lecture 1 - ES6 정리
+    - [ ] JavaScript IO - Reading Tutorial
 - [ ] Web Animation
 - [ ] DOM, BOM, jQuery
 - [ ] Web Fonts, Icons, & Images
@@ -120,6 +128,10 @@
 - [ ] Front-end App Architecture
 - [ ] Data API
 - [ ] React
+    - [ ] CS50 Beyond lecture 4.1 - React 정리
+    - [ ] CS50 Beyond lecture 4.2 - React continued 정리
+    - [ ] CS50 Beyond lecture 5 - Thinking React 정리
+    - [ ] Mobile50 lecture 2 - React, Props, State
 - [ ] State Management
 - [ ] Progressive Web App
 - [ ] JS API Design
@@ -138,14 +150,14 @@
 - [ ] Web/Browser/App Security
 - [ ] Multi-device Dev
 
-#### Frontend Courses
+### Frontend Courses
 1. [ ] Udemy - Zero to Master course
-2. [ ] Front-end Masters - Complete Intro to Web Development, v2 (복습 겸)
-3. [ ] Front-end Masters - CSS Grids and Flexbox for Responsive Web Design (선택)
-4. [ ] Front-end Masters - JavaScript: From Fundamentals to Functional JS, v2 (선택)
-5. [ ] Front-end Masters - Mastering Chrome Developer Tools v2 (선택)
+- [ ] Front-end Masters - Complete Intro to Web Development, v2 (복습 겸)
+- [ ] Front-end Masters - CSS Grids and Flexbox for Responsive Web Design (선택)
+- [ ] Front-end Masters - JavaScript: From Fundamentals to Functional JS, v2 (선택)
+- [ ] Front-end Masters - Mastering Chrome Developer Tools v2 (선택)
 
-### Projects
+### Projects / Challenges
 - [ ] Wesbos Grid Challenge
 - [ ] Wesbos Flex Challenge
 - [ ] Wesbos Javascript 30 day challenge
