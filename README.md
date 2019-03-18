@@ -112,7 +112,7 @@
     - [x] Web50 lecture 7 - Frontend 정리
     - [x] CS50 Beyond lecture 2.1 - JavaScript 정리
     - [ ] CS50 Beyond lecture 2.2 - JavaScript continued 정리
-    - [ ] Mobile50 lecture 0 - JavaScript 정리
+    - [x] Mobile50 lecture 0 - JavaScript 정리
     - [ ] Mobile50 lecture 1 - ES6 정리
     - [ ] JavaScript IO - Reading Tutorial
 - [ ] Web Animation
