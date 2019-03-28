@@ -37,7 +37,7 @@
   - [ ] 백준 큐 문제
   - [ ] 백준 덱 문제
 - [ ] Hackerrank Data Stucture Problems
-  - [ ] Array (easy)
+  - [x] Array (easy)
   - [ ] Linked Lists (easy)
   - [ ] Stack (easy)
   - [ ] Queue (easy)
