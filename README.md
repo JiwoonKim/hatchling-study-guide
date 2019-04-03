@@ -7,7 +7,7 @@
 2. [자료구조](#자료구조-data-structures)
 3. [알고리즘](#알고리즘-algorithms)
 
-> [필기시험 준비](#필기시험-준비-cs-과목)
+> [필기시험 준비](#cs-과목-)
 1. [시스템소프트웨어](#시스템-소프트웨어-system-software)
 2. [운영체제](#운영체제-operating-systems)
 3. [데이터베이스](#데이터베이스-databases)
@@ -73,7 +73,7 @@
   - [ ] Debugging
   
   
-## 필기시험 준비 (CS 과목)
+## CS 과목 공부
 
 ### 시스템 소프트웨어 (System Software)
 - [ ] 패캠 시스템 소프트웨어 강의
