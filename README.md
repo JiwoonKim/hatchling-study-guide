@@ -37,7 +37,7 @@
   - [ ] 백준 큐 문제
   - [ ] 백준 덱 문제
 - [ ] Hackerrank Data Stucture Problems
-  - [x] Array (easy)
+  - [x] Array (easy + medium)
   - [ ] Linked Lists (easy)
   - [ ] Stack (easy)
   - [ ] Queue (easy)
@@ -128,7 +128,7 @@
 - [ ] Front-end App Architecture
 - [ ] Data API
 - [ ] React
-    - [ ] CS50 Beyond lecture 4.1 - React 정리
+    - [x] CS50 Beyond lecture 4.1 - React 정리
     - [ ] CS50 Beyond lecture 4.2 - React continued 정리
     - [ ] CS50 Beyond lecture 5 - Thinking React 정리
     - [ ] Mobile50 lecture 2 - React, Props, State
@@ -156,6 +156,7 @@
 - [ ] Front-end Masters - CSS Grids and Flexbox for Responsive Web Design (선택)
 - [ ] Front-end Masters - JavaScript: From Fundamentals to Functional JS, v2 (선택)
 - [ ] Front-end Masters - Mastering Chrome Developer Tools v2 (선택)
+- [ ] Udemy - junior to senior course
 
 ### Projects / Challenges
 - [ ] Wesbos Grid Challenge
@@ -174,6 +175,12 @@
 - [ ] apply할 회사 list 작성
 
 ### Resume 준비
+- [x] 영문 이력서 초안
+- [ ] 한글 이력서 초안
 - [ ] LinkedIn Resume 등록
 - [ ] 원티드 이력서 등록
 - [ ] 
+
+### Portfolio 준비
+- [ ] portfolio website 만들기
+- [ ] portfolio 프로젝트 리스트 (+설명) 작성
