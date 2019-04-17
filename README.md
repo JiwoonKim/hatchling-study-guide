@@ -151,7 +151,7 @@
 - [ ] Multi-device Dev
 
 ### Frontend Courses
-1. [ ] Udemy - Zero to Master course
+- [ ] Udemy - Zero to Master course
 - [ ] Front-end Masters - Complete Intro to Web Development, v2 (복습 겸)
 - [ ] Front-end Masters - CSS Grids and Flexbox for Responsive Web Design (선택)
 - [ ] Front-end Masters - JavaScript: From Fundamentals to Functional JS, v2 (선택)
@@ -177,7 +177,6 @@
 ### Resume 준비
 - [x] 영문 이력서 초안
 - [ ] 한글 이력서 초안
-- [ ] LinkedIn Resume 등록
 - [ ] 원티드 이력서 등록
 - [ ] 
 
