@@ -95,19 +95,18 @@
 ### Fundamentals
 
 #### Frontend Masters booklet - self study guide (39 topics + more)
-- [x] Internet & Web
-- [x] Web Browsers
-- [x] DNS
-- [x] HTTP & Networks
-- [x] Web Hosting
-- [x] HTML
+- [x] 1. Internet & Web
+- [x] 2. Web Browsers
+- [x] 3. Domain Name System (DNS)
+- [x] 4. HTTP & Networks
+- [x] 5. Web Hosting
+- [x] 6. HTML & CSS
     - [x] Internet is Hard - HTML lessons 정리
-- [x] CSS
     - [x] Internet is Hard - CSS lessons 정리
-- [x] UI/Interaction Design
-- [x] Responsive Websites
-- [ ] SEO
-- [ ] JavaScript
+- [x] 7. User Interface / Interaction Design
+- [x] 8. Responsive Websites
+- [ ] 9. SEO
+- [ ] 10. JavaScript
     - [x] Web50 lecture 6 - JavaScript 정리
     - [x] Web50 lecture 7 - Frontend 정리
     - [x] CS50 Beyond lecture 2.1 - JavaScript 정리
@@ -115,8 +114,8 @@
     - [x] Mobile50 lecture 0 - JavaScript 정리
     - [x] Mobile50 lecture 1 - ES6 정리
     - [ ] JavaScript IO - Reading Tutorial
+- [ ] DOM, BOM, CCOM, & jQuery
 - [ ] Web Animation
-- [ ] DOM, BOM, jQuery
 - [ ] Web Fonts, Icons, & Images
 - [ ] CSS Architecture (go to the css section)
 - [ ] Accessibility
@@ -126,29 +125,29 @@
 - [ ] Static Site Generators
 - [ ] Computer Science via JS
 - [ ] Front-end App Architecture
-- [ ] Data API
+- [ ] Data API Design
 - [ ] React
     - [x] CS50 Beyond lecture 4.1 - React 정리
     - [ ] CS50 Beyond lecture 4.2 - React continued 정리
     - [ ] CS50 Beyond lecture 5 - Thinking React 정리
     - [ ] Mobile50 lecture 2 - React, Props, State
-- [ ] State Management
+- [ ] Application State Management
 - [ ] Progressive Web App
 - [ ] JS API Design
-- [ ] Web Dev Tools
-- [ ] Command Line
+- [ ] Browser Web Developer Tools
+- [ ] Command Line (CLI)
 - [ ] Node.js
-- [ ] JS Modules
-- [ ] JS Module loaders/bundles
+- [ ] Modules
+- [ ] Module loaders/bundles
 - [ ] Package Managers
 - [ ] Version Control
 - [ ] Build & Task Automation
 - [ ] Site Performance Optimization
 - [ ] Testing
 - [ ] Headless Browsers
-- [ ] Offline Dev
+- [ ] Offline Development
 - [ ] Web/Browser/App Security
-- [ ] Multi-device Dev
+- [ ] Multi-device Development
 
 ### Frontend Courses
 - [ ] Udemy - Zero to Master course
