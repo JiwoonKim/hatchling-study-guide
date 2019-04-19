@@ -76,6 +76,7 @@
   - [ ] Data Structures
   - [ ] Algorithms
 - [ ] Mock Interview 연습
+- [ ] 카카오 블라인드 코딩테스트 
   
 ## CS 과목 공부
 
