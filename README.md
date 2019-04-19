@@ -6,6 +6,7 @@
 1. [Basic](#basic)
 2. [자료구조](#자료구조-data-structures)
 3. [알고리즘](#알고리즘-algorithms)
+4. [인터뷰](#인터뷰-interviews)
 
 > [CS 과목 ](#cs-과목-공부)
 1. [시스템소프트웨어](#시스템-소프트웨어-system-software)
@@ -42,8 +43,6 @@
   - [ ] Stack (easy)
   - [ ] Queue (easy)
   - [ ] Tree (easy)
-- [ ] Cracking the Coding Interview (read)
-  - [ ] 
 
 ### 알고리즘 (Algorithms)
 - [ ] 백준 알고리즘 기초 강의
@@ -72,6 +71,11 @@
   - [ ] Game Theory
   - [ ] Debugging
   
+### 인터뷰 (Interviews)
+- [ ] Cracking the Coding Interview (read)
+  - [ ] Data Structures
+  - [ ] Algorithms
+- [ ] Mock Interview 연습
   
 ## CS 과목 공부
 
@@ -85,10 +89,12 @@
 - [ ] 정보처리기사 필기 시험 문제
 
 ### 데이터베이스 (Databases)
-- [ ] 
+- [ ] Cracking the Coding Interview (read)
 
 ### 네트워크 (Networking)
 - [ ] Geeks for Geeks
+- [ ] 패캠 소켓 프로그래밍 강의
+- [ ] 패캠 소켓 프로그래밍 실습
 
 ## Frontend 준비
 
