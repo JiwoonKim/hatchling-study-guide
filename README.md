@@ -45,7 +45,7 @@
   - [ ] Tree (easy)
 
 ### 알고리즘 (Algorithms)
-- [ ] 백준 알고리즘 기초 강의
+- [ ] 백준 알고리즘 기초 
   - [x] 알고리즘과 입출력 (13 문제)
   - [x] 자료구조1 (15 문제)
   - [x] 다이나믹 프로그래밍1 (21 문제)
@@ -53,14 +53,14 @@
   - [ ] 정렬 (9 문제)
   - [ ] 그래프1 (11 문제)
   - [ ] 트리1 (4 문제)
-- [ ] 백준 알고리즘 중급 part1 강의
+- [ ] 백준 알고리즘 중급 part1
   - [ ] 그리디 알고리즘 (11 문제)
   - [ ] 분할정복 (12 문제)
   - [ ] 이분탐색으로 정답 찾기 (6문제)
   - [ ] 완전 탐색 0 (5 문제)
   - [ ] 완전 탐색 1 (17 문제)
   - [ ] 자료구조 2 (11 문제)
-- [ ] 백준 알고리즘 중급 part2 강의
+- [ ] 백준 알고리즘 중급 part2
   - [ ]
 - [ ] Hackerrank Algorithm Problems
   - [ ] Warmup
@@ -177,7 +177,6 @@
 ### Fullstack으로 expand하기
 1. [ ] Front-end Masters - Full Stack for Frontend Engineers course
 2. [ ] Front-end Masters - Full Stack for Frontend Engineers 2 course
-
 
 ## Application 준비
 
