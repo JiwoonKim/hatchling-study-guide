@@ -121,6 +121,9 @@
     - [ ] Cache
     - [ ] Asynchronism
     - [ ] Communication
+- [ ] Example Design Questions
+    - [ ] [URL shortener](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/)
+    - [ ] [Collaborative Editor](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
 
 ## Frontend 준비
 
@@ -208,8 +211,13 @@
 - [x] 영문 이력서 초안
 - [ ] 한글 이력서 초안
 - [ ] 원티드 이력서 등록
-- [ ] 
+- [ ] 프로그래머스 이력서 등록
+- [ ] LinkedIn 이력서 등록
 
 ### Portfolio 준비
 - [ ] portfolio website 만들기
 - [ ] portfolio 프로젝트 리스트 (+설명) 작성
+
+### Interview Prep
+- [ ] Interview Preparation Grid (for projects)
+- [ ] S.A.R. Methodology
