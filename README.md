@@ -14,6 +14,8 @@
 3. [데이터베이스](#데이터베이스-databases)
 4. [네트워크](#네트워크-networking)
 
+> [시스템 디자인](#system-design-공부)
+
 > [Front-end 준비](#frontend-준비)
 1. [Fundamentals](#fundamentals)
     - [Frontend Masters 가이드](#frontend-masters-booklet---self-study-guide-39-topics)
@@ -101,6 +103,24 @@
 - [ ] Geeks for Geeks
 - [ ] 패캠 소켓 프로그래밍 강의
 - [ ] 패캠 소켓 프로그래밍 실습
+
+## System Design 공부
+- [ ] [How to approach a system design interview](https://github.com/donnemartin/system-design-primer#how-to-approach-a-system-design-interview-question)
+- [ ] Four different ways of scaling a system
+    - [ ] [1. Clones](https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+    - [ ] [2. Databases](https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
+    - [ ] [3. Cache](https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+    - [ ] [4. Asynchronism](https://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
+- [ ] Components of every software system (don’t need to understand everything in detail, but you should be aware of the different components and concepts)
+    - [ ] Domain Name System (DNS)
+    - [ ] Content Delivery Network (CDN)
+    - [ ] Load Balancer
+    - [ ] Reverse Proxy
+    - [ ] Application layer
+    - [ ] Database
+    - [ ] Cache
+    - [ ] Asynchronism
+    - [ ] Communication
 
 ## Frontend 준비
 
