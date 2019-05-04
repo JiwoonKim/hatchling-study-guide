@@ -80,7 +80,19 @@
 ### 인터뷰 (Interviews)
 - [ ] Cracking the Coding Interview (read)
   - [ ] Data Structures
+    - [ ] Arrays and Strings
+    - [ ] Linked Lists
+    - [ ] Stacks and Queues
+    - [ ] Trees and Graphs
   - [ ] Algorithms
+    - [ ] Bit Manipulation
+    - [ ] Math and Logic Puzzles
+    - [ ] Recursion and Dynamic Programming
+    - [ ] Sorting and Searching
+   - [ ] Miscellaneous
+    - [ ] Object-oriented Design
+    - [ ] System Design and Scalability
+    - [ ] Testing
 - [ ] Mock Interview 연습
 - [ ] 카카오 블라인드 코딩테스트 
   
