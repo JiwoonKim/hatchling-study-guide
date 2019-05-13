@@ -89,7 +89,7 @@
     - [ ] Math and Logic Puzzles
     - [ ] Recursion and Dynamic Programming
     - [ ] Sorting and Searching
-   - [ ] Miscellaneous
+  - [ ] Miscellaneous
     - [ ] Object-oriented Design
     - [ ] System Design and Scalability
     - [ ] Testing
