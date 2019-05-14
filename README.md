@@ -30,6 +30,7 @@
 - [ ] Basic C++ / STL 
   - [x] 백준 STL 기초 강의 정리
   - [x] 백준 STL 기초 강의 문제
+  
 - [ ] Big-Oh Notation
   - [x] [cheatsheet](http://bigocheatsheet.com/)
 
@@ -38,6 +39,7 @@
   - [ ] 백준 스택 문제
   - [ ] 백준 큐 문제
   - [ ] 백준 덱 문제
+ 
 - [ ] Hackerrank Data Stucture Problems
   - [x] Array (easy + medium)
   - [ ] Linked Lists (easy)
@@ -46,14 +48,15 @@
   - [ ] Tree (easy)
 
 ### 알고리즘 (Algorithms)
-- [ ] 백준 알고리즘 기초 
+- [x] 백준 알고리즘 기초 
   - [x] 알고리즘과 입출력 (13 문제)
   - [x] 자료구조1 (15 문제)
   - [x] 다이나믹 프로그래밍1 (21 문제)
   - [x] 수학1 (17 문제)
   - [x] 정렬 (9 문제)
   - [x] 그래프1 (11 문제)
-  - [ ] 트리1 (4 문제)
+  - [x] 트리1 (4 문제)
+
 - [ ] 백준 알고리즘 중급 part1
   - [ ] 그리디 알고리즘 (11 문제)
   - [ ] 분할정복 (12 문제)
@@ -61,8 +64,11 @@
   - [ ] 완전 탐색 0 (5 문제)
   - [ ] 완전 탐색 1 (17 문제)
   - [ ] 자료구조 2 (11 문제)
+ 
 - [ ] 백준 알고리즘 중급 part2
-  - [ ]
+  - [ ] 다이나믹 프로그래밍2 (17 문제)
+  - [ ] 수학2 (26 문제)
+  
 - [ ] Hackerrank Algorithm Problems
   - [ ] Warmup
   - [ ] Implementation
@@ -93,7 +99,9 @@
     - [ ] Object-oriented Design
     - [ ] System Design and Scalability
     - [ ] Testing
+    
 - [ ] Mock Interview 연습
+
 - [ ] 카카오 블라인드 코딩테스트 
   
 ## CS 과목 공부
