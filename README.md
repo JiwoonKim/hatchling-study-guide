@@ -27,20 +27,20 @@
 ## 코딩테스트 준비
 
 ### Basic
-- [ ] Basic C++ / STL 
+- [ ] __Basic C++ / STL__
   - [x] 백준 STL 기초 강의 정리
   - [x] 백준 STL 기초 강의 문제
   
-- [ ] Big-Oh Notation
+- [ ] __Big-Oh Notation__
   - [x] [cheatsheet](http://bigocheatsheet.com/)
 
 ### 자료구조 (Data Structures)
-- [ ] 백준 알고리즘 문제
+- [ ] __백준 알고리즘 문제__
   - [ ] 백준 스택 문제
   - [ ] 백준 큐 문제
   - [ ] 백준 덱 문제
  
-- [ ] Hackerrank Data Stucture Problems
+- [ ] __Hackerrank Data Stucture Problems__
   - [x] Array (easy + medium)
   - [ ] Linked Lists (easy)
   - [ ] Stack (easy)
@@ -48,7 +48,7 @@
   - [ ] Tree (easy)
 
 ### 알고리즘 (Algorithms)
-- [x] 백준 알고리즘 기초 
+- [x] __백준 알고리즘 기초__
   - [x] 알고리즘과 입출력 (13 문제)
   - [x] 자료구조1 (15 문제)
   - [x] 다이나믹 프로그래밍1 (21 문제)
@@ -57,7 +57,7 @@
   - [x] 그래프1 (11 문제)
   - [x] 트리1 (4 문제)
 
-- [ ] 백준 알고리즘 중급 part1
+- [ ] __백준 알고리즘 중급 part1__
   - [ ] 그리디 알고리즘 (11 문제)
   - [ ] 분할정복 (12 문제)
   - [ ] 이분탐색으로 정답 찾기 (6문제)
@@ -65,11 +65,11 @@
   - [ ] 완전 탐색 1 (17 문제)
   - [ ] 자료구조 2 (11 문제)
  
-- [ ] 백준 알고리즘 중급 part2
+- [ ] __백준 알고리즘 중급 part2__
   - [ ] 다이나믹 프로그래밍2 (17 문제)
   - [ ] 수학2 (26 문제)
   
-- [ ] Hackerrank Algorithm Problems
+- [ ] __Hackerrank Algorithm Problems__
   - [ ] Warmup
   - [ ] Implementation
   - [ ] Strings
@@ -84,25 +84,27 @@
   - [ ] Debugging
   
 ### 인터뷰 (Interviews)
-- [ ] Cracking the Coding Interview (read)
-  - [ ] Data Structures
+- [ ] __Cracking the Coding Interview__
+  - [ ] __Data Structures__
     - [ ] Arrays and Strings
     - [ ] Linked Lists
     - [ ] Stacks and Queues
     - [ ] Trees and Graphs
-  - [ ] Algorithms
+    
+  - [ ] __Algorithms__
     - [ ] Bit Manipulation
     - [ ] Math and Logic Puzzles
     - [ ] Recursion and Dynamic Programming
     - [ ] Sorting and Searching
-  - [ ] Miscellaneous
+    
+  - [ ] __Miscellaneous__
     - [ ] Object-oriented Design
     - [ ] System Design and Scalability
     - [ ] Testing
     
-- [ ] Mock Interview 연습
+- [ ] __Mock Interview 연습__
 
-- [ ] 카카오 블라인드 코딩테스트 
+- [ ] __카카오 블라인드 코딩테스트__
   
 ## CS 과목 공부
 
