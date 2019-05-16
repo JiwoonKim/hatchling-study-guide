@@ -89,15 +89,15 @@
   - [ ] Debugging
   
 - [ ] __Interview Cake Problems__
-    - [ ] Array & String Manipulation (5 문제)
-    - [ ] Hashing and Hash Tables (5 문제)
-    - [ ] Greedy Algorithms (5 문제)
-    - [ ] Sorting, Searching, and Logarithms (4 문제)
-    - [ ] Trees & Graphs (5 문제)
-    - [ ] Dynamic Programming & Recursion (7 문제)
-    - [ ] Queues & Stacks (4 문제)
-    - [ ] Linked Lists (5 문제)
-    - [ ] System Designs (3 문제)
+  - [ ] Array & String Manipulation (5 문제)
+  - [ ] Hashing and Hash Tables (5 문제)
+  - [ ] Greedy Algorithms (5 문제)
+  - [ ] Sorting, Searching, and Logarithms (4 문제)
+  - [ ] Trees & Graphs (5 문제)
+  - [ ] Dynamic Programming & Recursion (7 문제)
+  - [ ] Queues & Stacks (4 문제)
+  - [ ] Linked Lists (5 문제)
+  - [ ] System Designs (3 문제)
   
 ### 인터뷰 (Interviews)
 - [ ] __Cracking the Coding Interview__
