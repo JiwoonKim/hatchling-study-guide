@@ -35,17 +35,20 @@
   - [x] [cheatsheet](http://bigocheatsheet.com/)
 
 ### 자료구조 (Data Structures)
-- [ ] __백준 알고리즘 문제__
-  - [ ] 백준 스택 문제
-  - [ ] 백준 큐 문제
-  - [ ] 백준 덱 문제
- 
 - [ ] __Hackerrank Data Stucture Problems__
   - [x] Array (easy + medium)
   - [ ] Linked Lists (easy)
   - [ ] Stack (easy)
   - [ ] Queue (easy)
   - [ ] Tree (easy)
+  
+- [ ] __자료구조 직접 구현 및 대표 유형 문제__
+  - [ ] 링크드 리스트
+  - [ ] 스택
+  - [ ] 큐
+  - [ ] 트리
+  - [ ] 그래프
+  - [ ] 힙
 
 ### 알고리즘 (Algorithms)
 - [x] __백준 알고리즘 기초__
@@ -89,15 +92,19 @@
   - [ ] Debugging
   
 - [ ] __Interview Cake Problems__
-  - [ ] Array & String Manipulation (5 문제)
-  - [ ] Hashing and Hash Tables (5 문제)
-  - [ ] Greedy Algorithms (5 문제)
-  - [ ] Sorting, Searching, and Logarithms (4 문제)
-  - [ ] Trees & Graphs (5 문제)
-  - [ ] Dynamic Programming & Recursion (7 문제)
-  - [ ] Queues & Stacks (4 문제)
-  - [ ] Linked Lists (5 문제)
+  - [x] Array & String Manipulation (5 문제)
+  - [x] Hashing and Hash Tables (5 문제)
+  - [x] Greedy Algorithms (5 문제)
+  - [x] Sorting, Searching, and Logarithms (4 문제)
+  - [x] Trees & Graphs (5 문제)
+  - [x] Dynamic Programming & Recursion (7 문제)
+  - [x] Queues & Stacks (4 문제)
+  - [x] Linked Lists (5 문제)
   - [ ] System Designs (3 문제)
+  - [ ] General Programming (2 문제)
+  - [ ] Bit Manipulation (1 문제)
+  - [ ] Combinatorics, probability, and other math (6 문제)
+  - [ ] Javascript (2 문제)
   
 ### 인터뷰 (Interviews)
 - [ ] __Cracking the Coding Interview__
