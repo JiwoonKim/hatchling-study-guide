@@ -171,9 +171,8 @@
 
 ## Frontend 준비
 
-### Fundamentals
-
-#### Frontend Masters booklet - self study guide (39 topics + more)
+### Frontend Masters booklet - self study guide (39 topics + more)
+[frontend masters booklet](https://frontendmasters.com/books/front-end-handbook/2019/#4)
 - [x] 1. Internet & Web
 - [x] 2. Web Browsers
 - [x] 3. Domain Name System (DNS)
@@ -207,8 +206,8 @@
 - [ ] Data API Design
 - [ ] React
     - [x] CS50 Beyond lecture 4.1 - React 정리
-    - [ ] CS50 Beyond lecture 4.2 - React continued 정리
-    - [ ] CS50 Beyond lecture 5 - Thinking React 정리
+    - [x] CS50 Beyond lecture 4.2 - React continued 정리
+    - [x] CS50 Beyond lecture 5 - Thinking React 정리
     - [ ] Mobile50 lecture 2 - React, Props, State
 - [ ] Application State Management
 - [ ] Progressive Web App
