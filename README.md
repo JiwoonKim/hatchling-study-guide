@@ -2,7 +2,7 @@
 > 취업을 위한 스터디 가이드 및 체크리스트
 
 ## 목차
-> [코딩테스트 준비](#코딩테스트-준비)
+> [코딩 인터뷰 준비](#코딩-인터뷰-준비)
 1. [Basic](#basic)
 2. [자료구조](#자료구조-data-structures)
 3. [알고리즘](#알고리즘-algorithms)
@@ -17,38 +17,44 @@
 > [시스템 디자인](#system-design-공부)
 
 > [Front-end 준비](#frontend-준비)
-1. [Fundamentals](#fundamentals)
-    - [Frontend Masters 가이드](#frontend-masters-booklet---self-study-guide-39-topics)
+1. [Frontend Masters 가이드](#frontend-masters-booklet---self-study-guide-39-topics)
 2. [Projects](#projects)
 3. [Fullstack으로 expand하기](#fullstack으로-expand하기)
 
 > [Application 준비](#apply-준비)
 
-## 코딩테스트 준비
+## 코딩 인터뷰 준비
 
 ### Basic
-- [ ] __Basic C++ / STL__
+- [x] __Basic C++ / STL__
   - [x] 백준 STL 기초 강의 정리
   - [x] 백준 STL 기초 강의 문제
   
-- [ ] __Big-Oh Notation__
+- [x] __Big-Oh Notation__
   - [x] [cheatsheet](http://bigocheatsheet.com/)
+  - [x] CTCI Big-Oh chapter
 
 ### 자료구조 (Data Structures)
+- [ ] __Data Structure Cookie__: re-inventing the wheel + common problems
+  - [ ] Vector
+  - [ ] Strings
+  - [ ] Linked Lists
+  - [ ] Stack
+  - [ ] Queue
+  - [ ] Tree
+    - [ ] Binary Tree
+    - [ ] BST
+    - [ ] Heap
+    - [ ] Trie
+  - [ ] Graph
+  - [ ] Hash Table
+  
 - [ ] __Hackerrank Data Stucture Problems__
   - [x] Array (easy + medium)
   - [ ] Linked Lists (easy)
   - [ ] Stack (easy)
   - [ ] Queue (easy)
   - [ ] Tree (easy)
-  
-- [ ] __자료구조 직접 구현 및 대표 유형 문제__
-  - [ ] 링크드 리스트
-  - [ ] 스택
-  - [ ] 큐
-  - [ ] 트리
-  - [ ] 그래프
-  - [ ] 힙
 
 ### 알고리즘 (Algorithms)
 - [x] __백준 알고리즘 기초__
@@ -106,6 +112,8 @@
   - [ ] Combinatorics, probability, and other math (6 문제)
   - [ ] Javascript (2 문제)
   
+- [ ] [Top Coder Competitive Programming Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
+  
 ### 인터뷰 (Interviews)
 - [ ] __Cracking the Coding Interview__
   - [ ] __Data Structures__
@@ -124,10 +132,10 @@
     - [ ] Object-oriented Design
     - [ ] System Design and Scalability
     - [ ] Testing
-    
-- [ ] __Mock Interview 연습__
 
 - [ ] __카카오 블라인드 코딩테스트__
+
+- [ ] __Mock Interview 연습__
   
 ## CS 과목 공부
 
@@ -229,11 +237,12 @@
 
 ### Frontend Courses
 - [ ] Udemy - Zero to Master course
-- [ ] Front-end Masters - Complete Intro to Web Development, v2 (복습 겸)
+- [ ] Front-end Masters - React Beginner
+- [ ] Front-end Masters - React Intermediate
+- [ ] Udemy - junior to senior course
 - [ ] Front-end Masters - CSS Grids and Flexbox for Responsive Web Design (선택)
 - [ ] Front-end Masters - JavaScript: From Fundamentals to Functional JS, v2 (선택)
 - [ ] Front-end Masters - Mastering Chrome Developer Tools v2 (선택)
-- [ ] Udemy - junior to senior course
 
 ### Projects / Challenges
 - [ ] Wesbos Grid Challenge
@@ -259,7 +268,7 @@
 
 ### Portfolio 준비
 - [ ] portfolio website 만들기
-- [ ] portfolio 프로젝트 리스트 (+설명) 작성
+- [ ] portfolio 프로젝트 리스트 (+설명)
 
 ### Interview Prep
 - [ ] Interview Preparation Grid (for projects)
