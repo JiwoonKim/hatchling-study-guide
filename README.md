@@ -2,11 +2,8 @@
 > 취업을 위한 스터디 가이드 및 체크리스트
 
 ## 목차
-> [코딩 인터뷰 준비](#코딩-인터뷰-준비)
-1. [Basic](#basic)
-2. [자료구조](#자료구조-data-structures)
-3. [알고리즘](#알고리즘-algorithms)
-4. [인터뷰](#인터뷰-interviews)
+> [코딩 테스트 준비](#코딩-테스트-준비)
+1. 
 
 > [CS 과목 ](#cs-과목-공부)
 1. [시스템소프트웨어](#시스템-소프트웨어-system-software)
@@ -24,15 +21,6 @@
 > [Application 준비](#apply-준비)
 
 ## 코딩 인터뷰 준비
-
-### Basic
-- [x] __Basic C++ / STL__
-  - [x] 백준 STL 기초 강의 정리
-  - [x] 백준 STL 기초 강의 문제
-  
-- [x] __Big-Oh Notation__
-  - [x] [cheatsheet](http://bigocheatsheet.com/)
-  - [x] CTCI Big-Oh chapter
 
 ### 자료구조 (Data Structures)
 - [ ] __Data Structure Cookie__: re-inventing the wheel + common problems
@@ -58,62 +46,7 @@
   - [ ] Queue (easy)
 
 ### 알고리즘 (Algorithms)
-- [x] __백준 알고리즘 기초__
-  - [x] 알고리즘과 입출력 (13 문제)
-  - [x] 자료구조1 (15 문제)
-  - [x] 다이나믹 프로그래밍1 (21 문제)
-  - [x] 수학1 (17 문제)
-  - [x] 정렬 (9 문제)
-  - [x] 그래프1 (11 문제)
-  - [x] 트리1 (4 문제)
 
-- [ ] __백준 알고리즘 중급 part1__
-  - [ ] 그리디 알고리즘 (11 문제)
-  - [ ] 분할정복 (12 문제)
-  - [ ] 이분탐색으로 정답 찾기 (6문제)
-  - [ ] 완전 탐색 0 (5 문제)
-  - [ ] 완전 탐색 1 (17 문제)
-  - [ ] 자료구조 2 (11 문제)
- 
-- [ ] __백준 알고리즘 중급 part2__
-  - [ ] 다이나믹 프로그래밍2 (17 문제)
-  - [ ] 수학2 (26 문제)
-  - [ ] 그래프2 (20 문제)
-  - [ ] 트리2 (5문제)
-  - [ ] 완전탐색 2 (8 문제)
-  - [ ] 구간의 최소값 구하기 (2 문제)
-  - [ ] 구간의 합 구하기 (8 문제)
-  
-- [ ] __Hackerrank Algorithm Problems__
-  - [ ] Warmup
-  - [ ] Implementation
-  - [ ] Strings
-  - [ ] Sorting
-  - [ ] Search
-  - [ ] Graph Theory
-  - [ ] Greedy
-  - [ ] Dynamic Programming
-  - [ ] Bit Manipulation
-  - [ ] Recursion
-  - [ ] Game Theory
-  - [ ] Debugging
-  
-- [ ] __Interview Cake Problems__
-  - [x] Array & String Manipulation (5 문제)
-  - [x] Hashing and Hash Tables (5 문제)
-  - [x] Greedy Algorithms (5 문제)
-  - [x] Sorting, Searching, and Logarithms (4 문제)
-  - [x] Trees & Graphs (5 문제)
-  - [x] Dynamic Programming & Recursion (7 문제)
-  - [x] Queues & Stacks (4 문제)
-  - [x] Linked Lists (5 문제)
-  - [ ] System Designs (3 문제)
-  - [x] General Programming (2 문제)
-  - [x] Bit Manipulation (1 문제)
-  - [ ] Combinatorics, probability, and other math (6 문제)
-  - [ ] Javascript (2 문제)
-  
-- [ ] [Top Coder Competitive Programming Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
   
 ### 인터뷰 (Interviews)
 - [ ] __Cracking the Coding Interview__
