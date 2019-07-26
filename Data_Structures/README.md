@@ -43,7 +43,7 @@
   - __Stack__
     - [ ] easy:
   - __Queue__
-    - [ ]easy:
+    - [ ] easy:
   - __Heap__
   - __Disjoint Set__
   - __Multiple Choice__
