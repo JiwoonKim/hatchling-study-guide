@@ -7,7 +7,8 @@
 
 ## 프론트엔드 포커스 시리즈
 > :memo: [frontend masters booklet](https://frontendmasters.com/books/front-end-handbook/2019/#4)
-> 한글 정리 repo: []()
+
+> 내가 한글로 정리한 포스트들: []()
 
 - [x] 1. Internet & Web
 - [x] 2. Web Browsers

@@ -6,7 +6,7 @@
 ## Cracking the Coding Interview
 >  :speaking_head: 실제 인터뷰 형식처럼 문제 풀기 (시간제한 + 말하기)
 
-> 문제 풀기 코드 Repo: [Link](https://github.com/JiwoonKim/cracking-the-coding-interview)
+> 문제 풀기 코드 Repo: [링크](https://github.com/JiwoonKim/cracking-the-coding-interview)
 
   - [ ] __Data Structures__
     - [ ] Arrays and Strings

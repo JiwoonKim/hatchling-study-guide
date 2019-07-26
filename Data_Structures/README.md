@@ -1,10 +1,12 @@
 # 자료구조 :toolbox:
 
-- [ ] [자료구조 쿠키 굽기](#data-structure-cookie)
+- [ ] [자료구조 쿠키 굽기](#자료구조-쿠키-굽기)
 - [ ] [Hackerrank Data Structure Problems]((#hackerrank-data-structure-problems))
 
-## Data Structure Cookie
-> :cookie: re-inventing the wheel + common problems
+## 자료구조 쿠키 굽기
+> :cookie: 자료구조를 직접 만들고 관련 문제를 풀면서 자료구조 제대로 이해하기!
+
+> 문제 풀기 코드 Repo: [링크](https://github.com/JiwoonKim/data-structure-cookies)
 
   - [ ] Vector
   - [ ] Strings
@@ -20,11 +22,29 @@
   - [ ] Hash Table
   
 ## Hackerrank Data Structure Problems
-> :bulb: 
+> :sunglasses: 자료구조 문제 풀면서 완전히 자료구조 마스터하기! 
 
-  - [x] Array (easy + medium)
-  - [x] Linked Lists (easy)
-  - [x] Tree (easy)
-    - [ ] Balanced Tree (easy)
-  - [ ] Stack (easy)
-  - [ ] Queue (easy)
+> Hackerrank 자료구조 문제 [링크](https://www.hackerrank.com/domains/data-structures?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving)
+
+  - __Array__
+    - [x] easy: 4개
+    - [x] medium: 1개
+    - [ ]hard: 1개
+  - __Linked Lists__
+    - [x] easy: 14개
+    - [x] medium: 1개
+  - __Tree__
+    - [x] easy: 8개
+    - [ ] medium: 3개
+    - [ ] hard: 6개
+  - __Balanced Tree__
+    - [ ] medium: 1개
+    - [ ] hard: 2개
+  - __Stack__
+    - [ ] easy:
+  - __Queue__
+    - [ ]easy:
+  - __Heap__
+  - __Disjoint Set__
+  - __Multiple Choice__
+  - __Trie__
