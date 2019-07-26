@@ -1,4 +1,4 @@
-# 알고리즘 :woman_technologist:
+# 인터뷰 :woman_technologist:
 
 - [ ] [CTCI 인터뷰 형식으로 풀기](#cracking-the-coding-interview)
 - [ ] [Mock Interviews](#mock-interviews)
