@@ -1,27 +1,36 @@
 # 해츨링 가이드
 > 취업을 위한 스터디 가이드 및 체크리스트
 
+<<<<<<< HEAD
 ## 목차
 > [코딩 테스트 준비](#코딩-테스트-준비)
 1. 
+=======
+## Table of Contents
+>>>>>>> 783cae2487a1956624fb9755312d87de55d10e4b
 
-> [CS 과목 ](#cs-과목-공부)
-1. [시스템소프트웨어](#시스템-소프트웨어-system-software)
-2. [운영체제](#운영체제-operating-systems)
-3. [데이터베이스](#데이터베이스-databases)
-4. [네트워크](#네트워크-networking)
+### :memo: 코딩 테스트 준비
+1. [알고리즘](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Algorithm)
+2. [자료구조]()
+3. [프로그래머스 스킬 테스트]
+4. [카카오 블라인드 테스트]
+5. [프로그래머스 알고리즘 문제 풀기]
 
-> [시스템 디자인](#system-design-공부)
+### :ok_woman: 코딩 인터뷰 준비
+1. [CTCI 인터뷰 형식으로 풀기]
+2. Mock Interviews
 
-> [Front-end 준비](#frontend-준비)
-1. [Frontend Masters 가이드](#frontend-masters-booklet---self-study-guide-39-topics)
-2. [Projects](#projects)
-3. [Fullstack으로 expand하기](#fullstack으로-expand하기)
+### :bulb: Computer Science 상식
+- 네트워크
+- 시스템 소프트웨어
+- 운영체제
+- 데이터베이스
+- 컴퓨터 구조
 
-> [Application 준비](#apply-준비)
+### :woman_technologist: 프론트엔드 개발자 되기
 
-## 코딩 인터뷰 준비
 
+<<<<<<< HEAD
 ### 자료구조 (Data Structures)
 - [ ] __Data Structure Cookie__: re-inventing the wheel + common problems
   - [ ] Vector
@@ -207,3 +216,10 @@
 ### Interview Prep
 - [ ] Interview Preparation Grid (for projects)
 - [ ] S.A.R. Methodology
+=======
+
+### 이력서 및 서류 준비
+- 프로젝트 
+- 영문 이력서 작성
+- 
+>>>>>>> 783cae2487a1956624fb9755312d87de55d10e4b
