@@ -1,0 +1,21 @@
+# 시스템 디자인 :wrench:
+
+- [ ] [How to approach a system design interview](https://github.com/donnemartin/system-design-primer#how-to-approach-a-system-design-interview-question)
+- [ ] Four different ways of scaling a system
+    - [ ] [1. Clones](https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+    - [ ] [2. Databases](https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
+    - [ ] [3. Cache](https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+    - [ ] [4. Asynchronism](https://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
+- [ ] Components of every software system (don’t need to understand everything in detail, but you should be aware of the different components and concepts)
+    - [ ] Domain Name System (DNS)
+    - [ ] Content Delivery Network (CDN)
+    - [ ] Load Balancer
+    - [ ] Reverse Proxy
+    - [ ] Application layer
+    - [ ] Database
+    - [ ] Cache
+    - [ ] Asynchronism
+    - [ ] Communication
+- [ ] Example Design Questions
+    - [ ] [URL shortener](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/)
+    - [ ] [Collaborative Editor](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
