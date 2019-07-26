@@ -51,10 +51,11 @@
   
 - [ ] __Hackerrank Data Stucture Problems__
   - [x] Array (easy + medium)
-  - [ ] Linked Lists (easy)
+  - [x] Linked Lists (easy)
+  - [x] Tree (easy)
+    - [ ] Balanced Tree (easy)
   - [ ] Stack (easy)
   - [ ] Queue (easy)
-  - [ ] Tree (easy)
 
 ### 알고리즘 (Algorithms)
 - [x] __백준 알고리즘 기초__
@@ -107,8 +108,8 @@
   - [x] Queues & Stacks (4 문제)
   - [x] Linked Lists (5 문제)
   - [ ] System Designs (3 문제)
-  - [ ] General Programming (2 문제)
-  - [ ] Bit Manipulation (1 문제)
+  - [x] General Programming (2 문제)
+  - [x] Bit Manipulation (1 문제)
   - [ ] Combinatorics, probability, and other math (6 문제)
   - [ ] Javascript (2 문제)
   
