@@ -23,8 +23,8 @@
 - [시스템 디자인](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/System_design)
 
 ## :ok_woman: 프론트엔드 개발자 되기
-- [프론트엔드 포커스 시리즈 정리]
-- 
+- [프론트엔드 포커스 시리즈 정리](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Frontend)
+- [프록제트 및 챌린지]
 
 ## :memo: 이력서 및 서류 준비
 - [ ] 프로젝트 이력: 짧은 글로 정리 (한글 & 영문)
