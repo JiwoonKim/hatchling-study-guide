@@ -15,10 +15,10 @@
 2. Mock Interviews
 
 ## :bulb: Computer Science 상식
-- [네트워크]((https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Network))
+- [네트워크](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Network)
 - 시스템 소프트웨어
-- [운영체제]((https://github.com/JiwoonKim/hatchling-study-guide/blob/master/OS))
-- [데이터베이스]((https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Databse))
+- [운영체제](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/OS)
+- [데이터베이스](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Databse)
 - 컴퓨터 구조
 - [시스템 디자인](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/System_design)
 
