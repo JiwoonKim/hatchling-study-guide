@@ -1,12 +1,19 @@
-# 자료구조 :toolbox:
+# 자료구조 :bulb:
+
+- [ ] [자료구조 블로그 정리](#자료구조-블로그-정리)
 
 - [ ] [자료구조 쿠키 굽기](#자료구조-쿠키-굽기)
 - [ ] [Hackerrank Data Structure Problems]((#hackerrank-data-structure-problems))
 
+## 자료구조 레시피 정리
+> :woman_cook: :memo: 자료구조의 개념과 코드를 레시피로 정리하여 블로그 포스트로 작성하기!
+
+> 자료구조 개념 및 코드 정리한 블로그 포스트들: [링크]()
+
 ## 자료구조 쿠키 굽기
 > :cookie: 자료구조를 직접 만들고 관련 문제를 풀면서 자료구조 제대로 이해하기!
 
-> 문제 풀기 코드 Repo: [링크](https://github.com/JiwoonKim/data-structure-cookies)
+> 문제 풀이 코드 레포: [링크](https://github.com/JiwoonKim/data-structure-cookies)
 
   - [ ] Vector
   - [ ] Strings
@@ -22,7 +29,7 @@
   - [ ] Hash Table
   
 ## Hackerrank Data Structure Problems
-> :sunglasses: 자료구조 문제 풀면서 완전히 자료구조 마스터하기! 
+> :fire: 자료구조 문제 풀면서 완전히 자료구조 마스터하기! 
 
 > Hackerrank 자료구조 문제 [링크](https://www.hackerrank.com/domains/data-structures?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving)
 

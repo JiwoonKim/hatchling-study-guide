@@ -12,7 +12,7 @@
 - [ ] [추가 자료](#추가로-풀-수-있는-문제)
 
 ## 기본기 다지기
-> :bulb: 시간복잡도와 C++ 기본기 다지기!
+> :seedling: 시간복잡도와 C++ 기본기 다지기! 
 
 - [x] __Basic C++ / STL__
   - [x] 백준 STL 기초 강의 정리
@@ -23,7 +23,9 @@
   - [x] CTCI Big-Oh chapter
   
 ## Interview Cake Problems
-> :cake: 인터뷰 케이크 문제 풀면서 패턴 익히기!
+> :cake: 인터뷰 케이크 문제 풀면서 패턴 익히기! 
+
+> 문제 풀이 코드 레포: [링크](https://github.com/JiwoonKim/interview-cake)
 
   - [x] 1. Array & String Manipulation (5 문제)
   - [x] 2. Hashing and Hash Tables (5 문제)
@@ -40,10 +42,12 @@
   - [ ] 13. System Designs (3 문제)
   
 ## 백준 알고리즘
-> 강의로 알고리즘 이해 높이고 실제 관련 문제 풀기로 굳히기!
+> :star: 강의로 알고리즘 이해 높이고 실제 관련 문제 풀기로 굳히기! 
+
+> 백준 사이트: [링크](https://www.acmicpc.net/)
 
 ### 백준 알고리즘 기초
-> :bulb: 백준 기초 강의 및 문제 풀기
+> :bulb: 백준 기초 강의 및 문제 풀기 
   - [x] 알고리즘과 입출력 (13 문제)
   - [x] 자료구조1 (15 문제)
   - [x] 다이나믹 프로그래밍1 (21 문제)
@@ -53,7 +57,7 @@
   - [x] 트리1 (4 문제)
   
 ### 백준 알고리즘 중급 1
-> :bulb: 백준 중급 part 1 강의 및 문제 풀기
+> :bulb: 백준 중급 part 1 강의 및 문제 풀기 
   - [ ] 그리디 알고리즘 (11 문제)
   - [ ] 분할정복 (12 문제)
   - [ ] 이분탐색으로 정답 찾기 (6문제)
@@ -62,7 +66,7 @@
   - [ ] 자료구조 2 (11 문제)
   
 ### 백준 알고리즘 중급 2
-> :bulb: 백준 중급 part 2 강의 및 문제 풀기
+> :bulb: 백준 중급 part 2 강의 및 문제 풀기 
   - [ ] 다이나믹 프로그래밍2 (17 문제)
   - [ ] 수학2 (26 문제)
   - [ ] 그래프2 (20 문제)
@@ -72,7 +76,7 @@
   - [ ] 구간의 합 구하기 (8 문제)
   
 ## Hackerrank Algorithm Problems
-> 알고리즘 문제 더 풀기! :sunglasses:
+> :sunglasses: 알고리즘 문제 더 풀기! 
   - [ ] Warmup
   - [ ] Implementation
   - [ ] Strings
@@ -87,4 +91,5 @@
   - [ ] Debugging
  
 ## 추가로 풀 수 있는 문제
-- [ ] [Top Coder Competitive Programming Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
+> :airplane: 알고리즘 머신 되기! 
+- [ ] [Top Coder Competitive Programming Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/) 
