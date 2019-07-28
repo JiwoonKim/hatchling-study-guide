@@ -31,7 +31,7 @@
 - [x] 영문 이력서 작성
 - [ ] 한글 이력서 작성
 
-## :white_check_mark: 채용공고 수시 확인하기
+## :white_check_mark: 채용공고 수시로 확인
 - [네이버 채용공고](https://recruit.navercorp.com/naver/job/list/developer?searchSysComCd=&entTypeCd=004&searchTxt=)
 - [NHN 채용공고](https://recruit.nhn.com/ent/recruitings?type=company)
 - [카카오 채용공고](https://careers.kakao.com/jobs)
