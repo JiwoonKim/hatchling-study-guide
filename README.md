@@ -30,3 +30,16 @@
 - [ ] 프로젝트 이력: 짧은 글로 정리 (한글 & 영문)
 - [x] 영문 이력서 작성
 - [ ] 한글 이력서 작성
+
+## :white_check_mark: 채용공고 수시 확인하기
+- [네이버 채용공고](https://recruit.navercorp.com/naver/job/list/developer?searchSysComCd=&entTypeCd=004&searchTxt=)
+- [NHN 채용공고](https://recruit.nhn.com/ent/recruitings?type=company)
+- [카카오 채용공고](https://careers.kakao.com/jobs)
+- [카카오페이 채용공고](https://kakaopay.recruiter.co.kr/app/jobnotice/list)
+- [Line 채용공고](https://recruit.linepluscorp.com/lineplus/career/list?classId=148)
+- [구글 채용공고](https://careers.google.com/jobs/results/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=Seoul,%20South%20Korea&q=software%20engineering&sort_by=relevance)
+- [우아한 형제들 채용공고](https://www.woowahan.com/#/recruit/tech)
+- [리디북스 채용공고](https://www.ridicorp.com/career/#)
+- 띵스플로우(헬로우봇)
+- [레진코믹스 채용공고](https://lezhin.recruiter.co.kr/app/jobnotice/list)
+- [야놀자 채용공고](http://yanolja.in/recruitment/)
