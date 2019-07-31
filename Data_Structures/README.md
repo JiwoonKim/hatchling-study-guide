@@ -8,7 +8,7 @@
 ## 자료구조 레시피 정리
 > :woman_cook: :memo: 자료구조의 개념과 코드를 레시피로 정리하여 블로그 포스트로 작성하기!
 
-> 자료구조 개념 및 코드 정리한 블로그 포스트들: [링크]()
+> 자료구조 개념 및 코드 정리한 블로그 포스트들: [링크](https://jiwoonkim.github.io/babydragon/tags/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 
 ## 자료구조 쿠키 굽기
 > :cookie: 자료구조를 직접 만들고 관련 문제를 풀면서 자료구조 제대로 이해하기!
@@ -36,7 +36,7 @@
   - __Array__
     - [x] easy: 4개
     - [x] medium: 1개
-    - [ ]hard: 1개
+    - [ ] hard: 1개
   - __Linked Lists__
     - [x] easy: 14개
     - [x] medium: 1개
