@@ -38,7 +38,7 @@
   - [x] 9. General Programming (2 문제)
   - [x] 10. Bit Manipulation (1 문제)
   - [x] 11. Combinatorics, probability, and other math (5 문제)
-  - [ ] 12. Javascript (2 문제)
+  - [x] 12. Javascript (2 문제)
   - [ ] 13. System Designs (3 문제)
   
 ## 백준 알고리즘
