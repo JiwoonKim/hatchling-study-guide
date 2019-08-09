@@ -10,12 +10,20 @@
 
 > 자료구조 개념 및 코드 정리한 블로그 포스트들: [링크](https://jiwoonkim.github.io/babydragon/tags/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 
+> [Educative.io - Data Structures in C++: An Interview Refresher](https://www.educative.io/collection/5642554087309312/5646276079124480) 참고 및 문제 풀기
+
+- [ ] Array
+- [ ] Linked List
+- [ ] Stack
+- [ ] Queue
+- [ ] Tree
+
 ## 자료구조 쿠키 굽기
 > :cookie: 자료구조를 직접 만들고 관련 문제를 풀면서 자료구조 제대로 이해하기!
 
 > 문제 풀이 코드 레포: [링크](https://github.com/JiwoonKim/data-structure-cookies)
 
-  - [ ] Vector
+  - [ ] Array / Vector
   - [ ] Strings
   - [ ] Linked Lists
   - [ ] Stack
@@ -48,10 +56,13 @@
     - [ ] medium: 1개
     - [ ] hard: 2개
   - __Stack__
-    - [ ] easy:
+    - [ ] easy: 2개
+    - [ ] medium: 5개
   - __Queue__
-    - [ ] easy:
+    - [ ] medium: 3개
   - __Heap__
+      - [ ] easy: 2개
+      - [ ] hard: 2개
   - __Disjoint Set__
   - __Multiple Choice__
   - __Trie__
