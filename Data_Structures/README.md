@@ -23,8 +23,9 @@
 
 > 문제 풀이 코드 레포: [링크](https://github.com/JiwoonKim/data-structure-cookies)
 
-  - [ ] Array / Vector
-  - [ ] Strings
+  - [x] Array / Vector
+    - [ ] Strings
+    - [ ] Matrix
   - [ ] Linked Lists
   - [ ] Stack
   - [ ] Queue
