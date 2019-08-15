@@ -12,8 +12,8 @@
 
 > [Educative.io - Data Structures in C++: An Interview Refresher](https://www.educative.io/collection/5642554087309312/5646276079124480) 참고 및 문제 풀기
 
-- [ ] Array
-- [ ] Linked List
+- [x] Array
+- [x] Linked List
 - [ ] Stack
 - [ ] Queue
 - [ ] Tree
@@ -23,10 +23,10 @@
 
 > 문제 풀이 코드 레포: [링크](https://github.com/JiwoonKim/data-structure-cookies)
 
-  - [x] Array / Vector
+  - [x] Array / Vector (8 문제)
     - [ ] Strings
     - [ ] Matrix
-  - [ ] Linked Lists
+  - [ ] Linked Lists (7 문제)
   - [ ] Stack
   - [ ] Queue
   - [ ] Tree
