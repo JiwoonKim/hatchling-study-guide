@@ -26,7 +26,7 @@
   - [x] Array / Vector (8 문제)
     - [ ] Strings
     - [ ] Matrix
-  - [ ] Linked Lists (7 문제)
+  - [x] Linked Lists (7 문제)
   - [ ] Stack
   - [ ] Queue
   - [ ] Tree
