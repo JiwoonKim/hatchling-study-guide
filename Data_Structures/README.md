@@ -12,37 +12,17 @@
 
 > [Educative.io - Data Structures in C++: An Interview Refresher](https://www.educative.io/collection/5642554087309312/5646276079124480) 참고 및 문제 풀기
 
-- [x] 배열
-- [x] 연결 리스트
-- [x] 스택과 큐
-- [ ] 그래프
-- [ ] 트리
-- [ ] 트라이 (trie)
-- [ ] 힙
-- [ ] 해시
-
-## 자료구조 쿠키 굽기
-> :cookie: 자료구조를 직접 만들고 관련 문제를 풀면서 자료구조 제대로 이해하기!
-
-> 문제 풀이 코드 레포: [링크](https://github.com/JiwoonKim/data-structure-cookies)
-
-  - [x] Array / Vector (8 문제)
-    - [ ] Strings
-    - [ ] Matrix
-  - [x] Linked Lists (7 문제)
-  - [ ] Stack
-  - [ ] Queue
-  - [ ] Graph
-  - [ ] Tree
-    - [ ] Binary Tree
-    - [ ] BST
-  - [ ] Trie
-  - [ ] Heap
-    
-  - [ ] Hash Table
+  - [x] 배열
+  - [x] 연결 리스트
+  - [x] 스택과 큐
+  - [ ] 그래프
+  - [ ] 트리
+  - [ ] 트라이 (trie)
+  - [ ] 힙
+  - [ ] 해시
   
-## Hackerrank Data Structure Problems
-> :fire: 자료구조 문제 풀면서 완전히 자료구조 마스터하기! 
+## Hackerrank 자료 구조 문제 풀기
+> :fire: 자료구조 문제 풀면서 자료구조 제대로 이해하기! 
 
 > Hackerrank 자료구조 문제 [링크](https://www.hackerrank.com/domains/data-structures?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving)
 
@@ -71,3 +51,22 @@
   - __Disjoint Set__
   - __Multiple Choice__
   - __Trie__
+
+## 자료구조 쿠키 굽기
+> :cookie: 자료구조를 직접 만들고 관련 문제를 풀면서 자료구조 제대로 이해하기!
+
+> 문제 풀이 코드 레포: [링크](https://github.com/JiwoonKim/data-structure-cookies)
+
+  - [x] Array / Vector (8 문제)
+    - [ ] Strings
+    - [ ] Matrix
+  - [x] Linked Lists (7 문제)
+  - [ ] Stack
+  - [ ] Queue
+  - [ ] Graph
+  - [ ] Tree
+    - [ ] Binary Tree
+    - [ ] BST
+  - [ ] Trie
+  - [ ] Heap
+  - [ ] Hash Table
