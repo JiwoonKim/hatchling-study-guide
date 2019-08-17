@@ -4,7 +4,7 @@
 ## Table of Contents
 
 ## :hammer: 코딩 테스트 준비
-1. [알고리즘](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Algorithm)
+1. [알고리즘](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Algorithm)
 2. [자료구조](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Data_Structures)
 3. [프로그래머스 스킬 테스트](https://programmers.co.kr/skill_checks)
 4. [카카오 블라인드 테스트](https://programmers.co.kr/learn/challenges)
@@ -15,10 +15,10 @@
 2. Mock Interviews
 
 ## :bulb: Computer Science 상식
-- [네트워크](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Network)
+- [네트워크](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Network)
 - 시스템 소프트웨어
-- [운영체제](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/OS)
-- [데이터베이스](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Databse)
+- [운영체제](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/OS)
+- [데이터베이스](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Database)
 - 컴퓨터 구조
 - [시스템 디자인](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/System_design)
 
