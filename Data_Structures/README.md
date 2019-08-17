@@ -2,8 +2,8 @@
 
 - [ ] [자료구조 블로그 정리](#자료구조-블로그-정리)
 
+- [ ] [해커랭크 자료구조 문제 풀기]((#hackerrank-data-structure-problems))
 - [ ] [자료구조 쿠키 굽기](#자료구조-쿠키-굽기)
-- [ ] [Hackerrank Data Structure Problems]((#hackerrank-data-structure-problems))
 
 ## 자료구조 레시피 정리
 > :woman_cook: :memo: 자료구조의 개념과 코드를 레시피로 정리하여 블로그 포스트로 작성하기!
