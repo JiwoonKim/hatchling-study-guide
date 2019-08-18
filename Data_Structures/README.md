@@ -34,7 +34,7 @@
     - [x] easy: 14개
     - [x] medium: 1개
   - __Stack__
-    - [ ] easy: 2개
+    - [x] easy: 2개
     - [ ] medium: 5개
   - __Queue__
     - [ ] medium: 3개
