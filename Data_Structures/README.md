@@ -26,31 +26,18 @@
 
 > Hackerrank 자료구조 문제 [링크](https://www.hackerrank.com/domains/data-structures?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving)
 
-  - __Array__
-    - [x] easy: 4개
-    - [x] medium: 1개
-    - [ ] hard: 1개
-  - __Linked Lists__
-    - [x] easy: 14개
-    - [x] medium: 1개
-  - __Stack__
-    - [x] easy: 2개
-    - [ ] medium: 5개
-  - __Queue__
-    - [ ] medium: 3개
-  - __Tree__
-    - [x] easy: 8개
-    - [ ] medium: 3개
-    - [ ] hard: 6개
-  - __Balanced Tree__
-    - [ ] medium: 1개
-    - [ ] hard: 2개
-  - __Heap__
-      - [ ] easy: 2개
-      - [ ] hard: 2개
-  - __Disjoint Set__
-  - __Multiple Choice__
-  - __Trie__
+| 자료구조 | easy 문제 | medium 문제 | hard 문제 |
+|:---:|:---:|:---:|:---:|
+| __Array__ | <ul><li>[x] 4개</li></ul> | <ul><li>[x] 1개</li></ul> | <ul><li>[ ] 1개</li></ul> |
+| __Linked Lists__ | <ul><li>[x] 14개</li></ul> | <ul><li>[x] 1개</li></ul> | |
+| __Stack__ | <ul> <li>[x] 2개</li></ul> | <ul><li>[ ] 5개</li></ul> | |
+| __Queue__ | <ul> <li>[ ] 3개</li></ul> | | |
+| __Tree__ | <ul> <li>[x] 8개</li></ul> | <ul><li>[ ] 3개</li></ul> | <ul><li>[ ] 6개</li></ul> |
+| __Balanced Tree__ | | <ul><li>[ ] 1개</li></ul> | <ul><li>[ ] 2개</li></ul> |
+| __Heap__ | <ul> <li>[ ] 2개</li></ul> | | <ul><li>[ ] 2개</li></ul> |
+| __Disjoint Set__ | <ul> <li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> |
+| __Multiple Choice__ | <ul> <li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> |
+| __Trie__ | <ul> <li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> |
 
 ## 자료구조 쿠키 굽기
 > :cookie: 자료구조를 직접 만들고 관련 문제를 풀면서 자료구조 제대로 이해하기!
