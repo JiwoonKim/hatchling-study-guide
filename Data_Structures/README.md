@@ -29,12 +29,12 @@
 | 자료구조 | easy 문제 | medium 문제 | hard 문제 |
 |:---:|:---:|:---:|:---:|
 | __Array__ | <ul><li>[x] 4개</li></ul> | <ul><li>[x] 1개</li></ul> | <ul><li>[ ] 1개</li></ul> |
-| __Linked Lists__ | <ul><li>[x] 14개</li></ul> | <ul><li>[x] 1개</li></ul> | |
-| __Stack__ | <ul> <li>[x] 2개</li></ul> | <ul><li>[ ] 5개</li></ul> | |
-| __Queue__ | <ul> <li>[ ] 3개</li></ul> | | |
+| __Linked Lists__ | <ul><li>[x] 14개</li></ul> | <ul><li>[x] 1개</li></ul> | X |
+| __Stack__ | <ul> <li>[x] 2개</li></ul> | <ul><li>[ ] 5개</li></ul> | X |
+| __Queue__ | <ul> <li>[ ] 3개</li></ul> | X | X |
 | __Tree__ | <ul> <li>[x] 8개</li></ul> | <ul><li>[ ] 3개</li></ul> | <ul><li>[ ] 6개</li></ul> |
-| __Balanced Tree__ | | <ul><li>[ ] 1개</li></ul> | <ul><li>[ ] 2개</li></ul> |
-| __Heap__ | <ul> <li>[ ] 2개</li></ul> | | <ul><li>[ ] 2개</li></ul> |
+| __Balanced Tree__ | X | <ul><li>[ ] 1개</li></ul> | <ul><li>[ ] 2개</li></ul> |
+| __Heap__ | <ul> <li>[ ] 2개</li></ul> | X | <ul><li>[ ] 2개</li></ul> |
 | __Disjoint Set__ | <ul> <li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> |
 | __Multiple Choice__ | <ul> <li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> |
 | __Trie__ | <ul> <li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> |
