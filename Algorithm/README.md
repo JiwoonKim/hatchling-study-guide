@@ -75,6 +75,11 @@
   - [ ] 구간의 최소값 구하기 (2 문제)
   - [ ] 구간의 합 구하기 (8 문제)
   
+## EducativeIO: Grokking the Coding Interview
+> :fire: 알고리즘 문제에서 자주 나오는 패턴들과 기술들 완전 마무리하기!
+> [educative.io의 Grokking the Coding Interview 강의 및 문제](https://www.educative.io/collection/5668639101419520/5671464854355968)
+   - sliding window, two ponters, fast and slow pointers, merge intervals, cyclic sort, in-place reversal of linked list, two heaps, subsets, modified binary search, top k elements, k-way merge, 0/1 knapsack(dynamic programming), topological sort
+  
 ## Hackerrank Algorithm Problems
 > :sunglasses: 알고리즘 문제 더 풀기! 
   - [ ] Warmup
