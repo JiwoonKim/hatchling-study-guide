@@ -45,3 +45,4 @@
 - [쿠팡 채용공고](https://rocketyourcareer.kr.coupang.com/검색-직무/software?orgIds=24450&kt=1)
 - [KT 채용공고](https://recruit.kt.com/apply/notifyList)
 - [삼성전자 채용공고](http://www.samsungcareers.com/rec/apply/ComResumeServlet?cmd=pstMain)
+- [그외 잡코리아에서 채용공고 확인하기](http://www.jobkorea.co.kr/starter/?schLocal=I000&schPart=10016&schMajor=&schEduLevel=5&schWork=&schCType=&isSaved=1&LinkGubun=0&LinkNo=0&Page=1&schType=0&schGid=0&schOrderBy=0&schTxt=)
