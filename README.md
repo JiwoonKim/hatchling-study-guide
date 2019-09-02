@@ -43,4 +43,5 @@
 - 띵스플로우(헬로우봇)
 - [레진코믹스 채용공고](https://lezhin.recruiter.co.kr/app/jobnotice/list)
 - [쿠팡 채용공고](https://rocketyourcareer.kr.coupang.com/검색-직무/software?orgIds=24450&kt=1)
-- [야놀자 채용공고](http://yanolja.in/recruitment/)
+- [KT 채용공고](https://recruit.kt.com/apply/notifyList)
+- [삼성전자 채용공고](http://www.samsungcareers.com/rec/apply/ComResumeServlet?cmd=pstMain)
