@@ -2,10 +2,9 @@
 
 - [ ] [자료구조 블로그 정리](#자료구조-레시피-정리)
 
-- [ ] [해커랭크 자료구조 문제 풀기]((#hackerrank-data-structure-problems))
-- [ ] [자료구조 쿠키 굽기](#자료구조-쿠키-굽기)
+- [ ] [hackerrank 자료구조 문제 풀기]((#hackerrank-data-structure-problems)
 
-- [ ] [Hackerrank Data Structure Problems]((#hackerrank-data-structure-problems))
+- [ ] [자료구조 쿠키 굽기](#자료구조-쿠키-굽기)
 
 ## 자료구조 레시피 정리
 > :woman_cook: :memo: 자료구조의 개념과 코드를 레시피로 정리하여 블로그 포스트로 작성하기!
@@ -31,12 +30,12 @@
 | 자료구조 | easy 문제 | medium 문제 | hard 문제 |
 |:---:|:---:|:---:|:---:|
 | __Array__ | <ul><li>[x] 4개</li></ul> | <ul><li>[x] 1개</li></ul> | <ul><li>[ ] 1개</li></ul> |
-| __Linked Lists__ | <ul><li>[x] 14개</li></ul> | <ul><li>[x] 1개</li></ul> | . |
-| __Stack__ | <ul> <li>[x] 2개</li></ul> | <ul><li>[ ] 5개</li></ul> | . |
-| __Queue__ | <ul> <li>[ ] 3개</li></ul> | . | . |
+| __Linked Lists__ | <ul><li>[x] 14개</li></ul> | <ul><li>[x] 1개</li></ul> |  |
+| __Stack__ | <ul> <li>[x] 2개</li></ul> | <ul><li>[ ] 5개</li></ul> |  |
+| __Queue__ | <ul> <li>[ ] 3개</li></ul> |  |  |
 | __Tree__ | <ul> <li>[x] 8개</li></ul> | <ul><li>[ ] 3개</li></ul> | <ul><li>[ ] 6개</li></ul> |
-| __Balanced Tree__ | . | <ul><li>[ ] 1개</li></ul> | <ul><li>[ ] 2개</li></ul> |
-| __Heap__ | <ul> <li>[ ] 2개</li></ul> | . | <ul><li>[ ] 2개</li></ul> |
+| __Balanced Tree__ |  | <ul><li>[ ] 1개</li></ul> | <ul><li>[ ] 2개</li></ul> |
+| __Heap__ | <ul> <li>[ ] 2개</li></ul> |  | <ul><li>[ ] 2개</li></ul> |
 | __Disjoint Set__ | <ul> <li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> |
 | __Multiple Choice__ | <ul> <li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> |
 | __Trie__ | <ul> <li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> | <ul><li>[ ] 개</li></ul> |
