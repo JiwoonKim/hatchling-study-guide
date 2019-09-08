@@ -45,7 +45,7 @@
     - [x] CS50 Beyond lecture 4.1 - React 정리
     - [x] CS50 Beyond lecture 4.2 - React continued 정리
     - [x] CS50 Beyond lecture 5 - Thinking React 정리
-    - [ ] Mobile50 lecture 2 - React, Props, State
+    - [x] Mobile50 lecture 2 - React, Props, State 정리
 - [ ] Application State Management
 - [ ] Progressive Web App
 - [ ] JS API Design
