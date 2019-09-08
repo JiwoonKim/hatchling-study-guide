@@ -4,11 +4,9 @@
 ## Table of Contents
 
 ## :hammer: 코딩 테스트 준비
-1. [알고리즘](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Algorithm)
-2. [자료구조](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Data_Structures)
-3. [프로그래머스 스킬 테스트](https://programmers.co.kr/skill_checks)
-4. [카카오 블라인드 테스트](https://programmers.co.kr/learn/challenges)
-5. [프로그래머스 알고리즘 문제 풀기](https://programmers.co.kr/learn/challenges)
+1. [자료구조](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Data_Structures)
+2. [알고리즘](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Algorithm)
+3. [프로그래머스 문제 풀기](https://github.com/JiwoonKim/programmers_psets)
 
 ## :woman_technologist: 코딩 인터뷰 준비
 1. [CTCI 인터뷰 형식으로 풀기](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Interviews)
