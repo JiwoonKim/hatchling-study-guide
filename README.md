@@ -8,9 +8,10 @@
 2. [알고리즘](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Algorithm)
 3. [문제 풀기](https://github.com/JiwoonKim/programmers_psets)
 
-## :woman_technologist: 코딩 인터뷰 준비
-1. [CTCI 인터뷰 형식으로 풀기](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Interviews)
-2. Mock Interviews
+## :woman_technologist: 코딩 인터뷰 준비 [링크](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Interviews)
+1. CTCI 인터뷰 형식으로 풀기
+2. Leetcode Interview Questions
+3. Mock Interview Practice
 
 ## :bulb: Computer Science 상식
 - [네트워크](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Network)
