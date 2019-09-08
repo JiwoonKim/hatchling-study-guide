@@ -1,45 +1,42 @@
 # 알고리즘 :sparkles:
 
 - [x] [기본기 다지기](#기본기-다지기)
-- [ ] [Interview Cake](#interview-cake-problems)
-- [ ] 백준 알고리즘
 
+- [ ] [알고리즘 정리](#알고리즘-블로그-정리)
+    - [ ] [알고리즘 레시피 정리](#알고리즘-레시피-정리)
+    - [ ] [알고리즘 파이 굽기](#알고리즘-파이-굽기)
+
+- [ ] 백준 알고리즘
   - [x] [백준 알고리즘 기초](#백준-알고리즘-기초)
   - [ ] [백준 알고리즘 중급 1](#백준-알고리즘-중급-1)
   - [ ] [백준 알고리즘 중급 2](#백준-알고리즘-중급-2)
-- [ ] [Leetcode Top 100](https://github.com/JiwoonKim/leetcode)
+
 - [ ] [Hackerrank Algorithm Problems](#hackerrank-algorithm-problems)
-- [ ] [추가 자료](#추가로-풀-수-있는-문제)
 
 ## 기본기 다지기
 > :seedling: 시간복잡도와 C++ 기본기 다지기! 
 
-- [x] __Basic C++ / STL__
-  - [x] 백준 STL 기초 강의 정리
-  - [x] 백준 STL 기초 강의 문제
-  
 - [x] __Big-Oh Notation__
   - [x] [cheatsheet](http://bigocheatsheet.com/)
   - [x] CTCI Big-Oh chapter
-  
-## Interview Cake Problems
-> :cake: 인터뷰 케이크 문제 풀면서 패턴 익히기! 
 
-> 문제 풀이 코드 레포: [링크](https://github.com/JiwoonKim/interview-cake)
+- [x] __Basic C++ / STL__
+  - [x] 백준 STL 기초 강의 정리
+  - [x] 백준 STL 기초 강의 문제
 
-  - [x] 1. Array & String Manipulation (5 문제)
-  - [x] 2. Hashing and Hash Tables (5 문제)
-  - [x] 3. Greedy Algorithms (5 문제)
-  - [x] 4. Sorting, Searching, and Logarithms (4 문제)
-  - [x] 5. Trees & Graphs (5 문제)
-  - [x] 6. Dynamic Programming & Recursion (7 문제)
-  - [x] 7. Queues & Stacks (4 문제)
-  - [x] 8. Linked Lists (5 문제)
-  - [x] 9. General Programming (2 문제)
-  - [x] 10. Bit Manipulation (1 문제)
-  - [ ] 11. Combinatorics, probability, and other math (5 문제)
-  - [ ] 12. Javascript (2 문제)
-  - [ ] 13. System Designs (3 문제)
+## 알고리즘 정리
+
+### 알고리즘 레시피 정리
+> :woman_cook: :memo: 알고리즘의 개념과 코드를 레시피로 정리하여 블로그 포스트로 작성하기!
+
+> 알고리즘 개념 및 코드 정리한 블로그 포스트들: [링크]()
+
+### 알고리즘 파이 굽기
+> :cookie: 알고리즘을 직접 구현하고 관련 문제를 풀면서 알고리즘 제대로 이해하기!
+
+> 문제 풀이 코드 레포: [링크](https://github.com/JiwoonKim/algorithm-pie)
+
+  - [ ] Brute-force
   
 ## 백준 알고리즘
 > :star: 강의로 알고리즘 이해 높이고 실제 관련 문제 풀기로 굳히기! 
@@ -89,7 +86,3 @@
   - [ ] Recursion
   - [ ] Game Theory
   - [ ] Debugging
- 
-## 추가로 풀 수 있는 문제
-> :airplane: 알고리즘 머신 되기! 
-- [ ] [Top Coder Competitive Programming Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/) 

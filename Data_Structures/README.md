@@ -1,8 +1,9 @@
 # 자료구조 :bulb:
 
-- [ ] [자료구조 블로그 정리](#자료구조-블로그-정리)
+- [ ] [자료구조 블로그 정리](#자료구조-레시피-정리)
 
 - [ ] [자료구조 쿠키 굽기](#자료구조-쿠키-굽기)
+
 - [ ] [Hackerrank Data Structure Problems]((#hackerrank-data-structure-problems))
 
 ## 자료구조 레시피 정리
@@ -15,18 +16,19 @@
 
 > 문제 풀이 코드 레포: [링크](https://github.com/JiwoonKim/data-structure-cookies)
 
-  - [ ] Vector
-  - [ ] Strings
-  - [ ] Linked Lists
-  - [ ] Stack
-  - [ ] Queue
-  - [ ] Tree
+  - [x] 1. Array/Vector
+    - [ ] Matrix
+    - [ ] Strings
+  - [x] 2. Linked Lists
+  - [ ] 3. Stack
+  - [ ] 4. Queue
+  - [ ] 5. Tree
     - [ ] Binary Tree
     - [ ] BST
     - [ ] Heap
     - [ ] Trie
-  - [ ] Graph
-  - [ ] Hash Table
+  - [ ] 6. Graph
+  - [ ] 7. Hash Table
   
 ## Hackerrank Data Structure Problems
 > :fire: 자료구조 문제 풀면서 완전히 자료구조 마스터하기! 
