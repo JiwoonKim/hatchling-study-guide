@@ -2,7 +2,7 @@
 
 - [ ] [자료구조 블로그 정리](#자료구조-레시피-정리)
 
-- [ ] [hackerrank 자료구조 문제 풀기]((#hackerrank-data-structure-problems)
+- [ ] [hackerrank 자료구조 문제 풀기](#hackerrank-자료-구조-문제-풀기)
 
 - [ ] [자료구조 쿠키 굽기](#자료구조-쿠키-굽기)
 
