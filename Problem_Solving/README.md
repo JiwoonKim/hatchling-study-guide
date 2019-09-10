@@ -30,6 +30,8 @@
 ## 프로그래머스 문제 풀기
 > :sunglasses: 프로그래머스 문제 풀면서 기업 문제 유형 익히기!
 
+> 프로그래머스 문제 정리한 레포: [링크](https://github.com/JiwoonKim/programmers_psets) 
+
 ### 프로그래머스 스킬 테스트
 > :bulb: 적어도 level 3는 패스하기! [스킬 테스트 링크](https://programmers.co.kr/skill_checks)
 
