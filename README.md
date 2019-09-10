@@ -6,7 +6,7 @@
 ## :hammer: 코딩 테스트 준비
 1. [자료구조](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Data_Structures)
 2. [알고리즘](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Algorithm)
-3. [문제 풀기](https://github.com/JiwoonKim/programmers_psets)
+3. [PS 문제 풀기](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Problem_Solving)
 
 ## :woman_technologist: 코딩 인터뷰 준비 [링크](https://github.com/JiwoonKim/hatchling-study-guide/blob/master/Interviews)
 1. CTCI 인터뷰 형식으로 풀기
