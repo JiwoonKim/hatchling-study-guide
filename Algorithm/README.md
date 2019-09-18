@@ -1,19 +1,19 @@
 # 알고리즘 :sparkles:
 
-- [x] [기본기 다지기](#기본기-다지기-seedling)
+- [x] [기본기 다지기](#seedling-기본기-다지기)
 
-- [ ] [알고리즘 정리](#알고리즘-정리-memo)
+- [ ] [알고리즘 정리](#memo-알고리즘-정리)
     - [ ] [알고리즘 레시피 정리](#알고리즘-레시피-정리-woman_cook)
     - [ ] [알고리즘 파이 굽기](#알고리즘-파이-굽기-custard)
 
-- [ ] [백준 알고리즘](#백준-알고리즘-star)
+- [ ] [백준 알고리즘](#star-백준-알고리즘)
   - [x] [백준 알고리즘 기초](#백준-알고리즘-기초-running_woman)
   - [ ] [백준 알고리즘 중급 1](#백준-알고리즘-중급-1-biking_woman)
   - [ ] [백준 알고리즘 중급 2](#백준-알고리즘-중급-2-mountain_biking_woman)
 
 - [ ] [Hackerrank Algorithm Problems](#hackerrank-algorithm-problems)
 
-## 기본기 다지기 :seedling:
+## :seedling: 기본기 다지기 
 > 시간복잡도와 C++ 기본기 다지기! 
 
 - [x] __Big-Oh Notation__
@@ -24,7 +24,7 @@
   - [x] 백준 STL 기초 강의 정리
   - [x] 백준 STL 기초 강의 문제
 
-## 알고리즘 정리 :memo:
+## :memo: 알고리즘 정리
 
 ### 알고리즘 레시피 정리 :woman_cook:
 > 알고리즘의 개념과 코드를 레시피로 정리하여 블로그 포스트로 작성하기!
@@ -38,7 +38,7 @@
 
   - [ ] Brute-force
   
-## 백준 알고리즘 :star:
+## :star: 백준 알고리즘
 > 강의로 알고리즘 이해 높이고 실제 관련 문제 풀기로 굳히기! ([백준 사이트](https://www.acmicpc.net/))
 
 ### 백준 알고리즘 기초 :running_woman:
