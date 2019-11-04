@@ -21,3 +21,6 @@
 
 ## 데이터베이스
 https://15445.courses.cs.cmu.edu/fall2017/syllabus.html
+
+## 셸 만들기
+https://github.com/brenns10/lsh
