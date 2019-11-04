@@ -14,7 +14,7 @@
 3. Mock Interview Practice
 
 ## :bulb: Computer Science 상식
-> 강의 목록
+> 강의 목록: https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Courses
 - [네트워크](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/Network)
 - 시스템 소프트웨어
 - [운영체제](https://github.com/JiwoonKim/hatchling-study-guide/tree/master/OS)
