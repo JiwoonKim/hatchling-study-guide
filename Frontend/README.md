@@ -79,5 +79,5 @@
 - [ ] Front-end Masters - Mastering Chrome Developer Tools v2 (선택)
 
 ### 풀스택으로 넘어가기
-1. [ ] Front-end Masters - Full Stack for Frontend Engineers course
-2. [ ] Front-end Masters - Full Stack for Frontend Engineers 2 course
+1. [ ] Front-end Masters - Full Stack for Frontend Engineers
+2. [ ] Front-end Masters - Full Stack for Frontend Engineers part 2 
